@@ -1011,7 +1011,7 @@ footer {
   }
 
   .listed a {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .image-6 {
@@ -1019,15 +1019,15 @@ footer {
   }
 
   .one {
-    font-size: 20px;
+    font-size: 22px;
   }
 
   .change {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .avail {
-    font-size: 9px;
+    font-size: 10px;
   }
 
   .hero-phone {
@@ -1052,11 +1052,11 @@ footer {
   }
 
   .app {
-    font-size: 9px;
+    font-size: 10px;
   }
 
   .play {
-    font-size: 9px;
+    font-size: 10px;
   }
 
   .news {
@@ -1080,11 +1080,11 @@ footer {
   }
 
   .feat {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .money {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .fees {
@@ -1092,23 +1092,23 @@ footer {
   }
 
   .low {
-    font-size: 14px;
-  }
-
-  .wall {
-    font-size: 14px;
-  }
-
-  .send {
-    font-size: 11px;
-  }
-
-  .global {
     font-size: 16px;
   }
 
+  .wall {
+    font-size: 16px;
+  }
+
+  .send {
+    font-size: 13px;
+  }
+
+  .global {
+    font-size: 18px;
+  }
+
   .seven {
-    font-size: 36px;
+    font-size: 38px;
   }
 
   .pics1 {
@@ -1136,11 +1136,11 @@ footer {
   }
 
   .receive {
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .cheap {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .parent img {
@@ -1154,7 +1154,7 @@ footer {
   }
 
   .exchange {
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .virtual img,
@@ -1167,15 +1167,15 @@ footer {
   }
 
   .rates {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .africa {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .debt {
-    font-size: 24px;
+    font-size: 26px;
   }
 
   .man {
@@ -1189,27 +1189,27 @@ footer {
   }
 
   .love {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .stan {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .mail {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .thank {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .more {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .biz {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .humor3 {
@@ -1221,7 +1221,7 @@ footer {
   }
 
   .fuel {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .mac img {
@@ -1233,35 +1233,35 @@ footer {
   }
 
   .easy {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .no1 {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   .device {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .no2 {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   .kyc {
-    font-size: 11px;
-  }
-
-  .no3 {
     font-size: 13px;
   }
 
+  .no3 {
+    font-size: 15px;
+  }
+
   .family {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .down {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .log {
@@ -1270,11 +1270,11 @@ footer {
   }
 
   .com {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .weak a {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .bad1 {
@@ -1293,19 +1293,19 @@ footer {
   }
 
   .register {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   #feat {
-    font-size: 11px;
+    font-size: 13px;
   }
 
   #super {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   #current {
-    font-size: 11px;
+    font-size: 13px;
   }
 }
 
